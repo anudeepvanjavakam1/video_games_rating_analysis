@@ -137,3 +137,4 @@ Text View|49% (There are very few text games but their rating seems to be high).
 - Assigning more weightage to rating based on how many people have rated a game.
 
 ![Footer](images_for_readme_gif/gamer-6022003_1280.png)
+Image by <a href="https://pixabay.com/users/cromaconceptovisual-4595909/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6022003">cromaconceptovisual</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6022003">Pixabay</a>
