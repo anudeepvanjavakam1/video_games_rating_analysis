@@ -118,7 +118,9 @@ purchases) and have higher bar to deliver and cater to thousands if not millions
 -   Strategy: Android
 -   Racing: PS3 followed by Mac
 
-12) Group |% of games that are great given a category group
+12) 
+
+Group |% of games that are great given a category group
 -----|-----
 Mature|49%. In other words, in age limit category, 49% of the games will be great given they belong to Mature group.
 Mac|44%. This is only 4% higher than PC Windows and 2% higher than other platforms. May be platform doesn't matter?
@@ -127,11 +129,11 @@ RPG|46%
 Text View|49% (There are very few text games but their rating seems to be high). If we only consider popular views, then first person and side view have great games (43%).
 
 **Expansion Ideas**
-Publishers and Developers data can be analyzed to see how they do in terms of rating.
-If there are separate ratings for gameplay, controls, level design, challenge, characters, etc. it would give more insight into what actually makes a game great.
-It would be interesting to see to what extent higher rating influences game sales.
-Do games that do not have similar games associated with them receive higher rating when compared to games that have many similar games?
-Do games with websites associated with them have higher hype or rating?
-Assigning more weightage to rating based on how many people have rated a game.
+- Publishers and Developers data can be analyzed to see how they do in terms of rating.
+- If there are separate ratings for gameplay, controls, level design, challenge, characters, etc. it would give more insight into what actually makes a game great.
+- It would be interesting to see to what extent higher rating influences game sales.
+- Do games that do not have similar games associated with them receive higher rating when compared to games that have many similar games?
+- Would be interesting to see if games with websites associated with them have higher hype or rating?
+- Assigning more weightage to rating based on how many people have rated a game.
 
 ![Footer](images_for_readme_gif/gamer-6022003_1280.png)
