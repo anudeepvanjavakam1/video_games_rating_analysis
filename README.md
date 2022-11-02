@@ -26,7 +26,7 @@ This notebook explores any common trends for games that have ratings from igdb a
 
 # Demo-Preview
 
-![GIF](https://giphy.com/gifs/dO89WY0P8u1CNw7U55)
+![GIF](https://media.giphy.com/media/dO89WY0P8u1CNw7U55/giphy.gif)
 
 
 # Table of contents
@@ -134,4 +134,4 @@ Do games that do not have similar games associated with them receive higher rati
 Do games with websites associated with them have higher hype or rating?
 Assigning more weightage to rating based on how many people have rated a game.
 
-![Footer](images_for_readme_gif/gamer-6022003_1280.jpg)
+![Footer](images_for_readme_gif/gamer-6022003_1280.png)
