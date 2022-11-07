@@ -83,7 +83,7 @@ colorama
 
 
 **Key Takeaways:**
-1) Most of the data was either missing or structured in a way that cannot be easily analyzed. Work around: Cleaning and simplifying the data with some assumptions.
+1) Most of the data was either missing or structured in a way that cannot be easily analyzed. Data is pre-processed and simplified with some assumptions.
 
 2) Majority of the ratings are between 50 and 80 with peaking at 70.
 
@@ -93,7 +93,7 @@ colorama
 
 5) With great moderation comes great quality! iOS had better rating distribution than other platforms.
 
-6) 7th Generation consoles (PS3 and Xbox 360) had better ratings than their next gen counterparts. This might be because of bigger library of great games with backward compatibility.
+6) 7th Generation consoles (PS3 and Xbox 360) had better ratings than their next gen counterparts. This might be because of bigger library of great games with backward compatibility and longer time in market.
 
 7) Linux and Mac have better ratings than Windows BUT only successful or well known frachise games are made compatible with Linux and Mac. This makes it look like they have better ratings. Thus they have an obvious 
 advantage over Windows which has a plethora of bad and good games.

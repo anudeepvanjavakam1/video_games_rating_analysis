@@ -1,0 +1,33 @@
+Do age ratings have an effect on the ratings of a game? do games that everyone (from kids to adults) can play have more success? mature games have more chance to be rated highly.
+
+which category/genres/themes of games have high ratings? done
+
+do follows/forks/hypes have an effect on ratings of a game? no correlation with ratings but had correlation with rating count
+
+do games with more no of videos/websites get more hype/more rating? can't be answered with the data at hand.
+
+which platforms have high avg rating? averages are skewed because of the rating distribution. So median rating was considered. iOS.
+
+which player_perspectives have high avg rating? Most popular views have good ratings.
+
+based on release_date, what's the trend over time? 
+Over the time, are the games getting higher rating? Not insightful. But in the last 5 years, we see an increasing trend in the median rating.
+
+are unique games (games that don't have 0 similar games vs games that have many similar games) more successful?
+
+how successful are remakes?
+
+if more companies are involved in developing or publishing the game (involved_companies), does it make it get more rating?
+
+are multi player games more successful than single player? Can clearly see that multi player games are more successful.
+
+Would be interesting to see if higher rating means more sales. In most of the cases, we can expect this to be true but in some cases it is not.
+Some games are exceptionally reviewed and rated higher but the sales are low for many reasons (game difficulty, price, appeal)
+
+Insight: People love some genres or themes but very few games came out so far. There might be untapped areas to develop more in these genres and create a win-win situation for both game developing studios and gamers.
+
+follows and hypes look interesting
+
+If there are separate ratings for gameplay, controls, level design, challenge, characters, etc. it would give more insight into what actually makes a game great.
+
+
