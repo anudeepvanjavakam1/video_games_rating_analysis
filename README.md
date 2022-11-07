@@ -128,9 +128,11 @@ Fantasy|48%
 RPG|46%
 Text View|49% (There are very few text games but their rating seems to be high). If we only consider popular views, then first person and side view have great games (43%).
 
+13) Last but not least, we should accept that the results here are based on several assumptions (example - genres and themes are tagged correctly for games), one of which is that this dataset is a representative sample of the games released in the world and is not already biased for any particular group. For example, If PS3 had only well known games added to IGDB database, it would invalidate our results.
+
 **Expansion Ideas**
 - Publishers and Developers data can be analyzed to see how they do in terms of rating.
-- If there are separate ratings for gameplay, controls, level design, challenge, characters, etc. it would give more insight into what actually makes a game great.
+- If there are separate ratings for gameplay, controls, level design, challenge, characters, etc. it would give more insight into what role they actually play in making a game great.
 - It would be interesting to see to what extent higher rating influences game sales.
 - Do games that do not have similar games associated with them receive higher rating when compared to games that have many similar games?
 - Would be interesting to see if games with websites associated with them have higher hype or rating?
