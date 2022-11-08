@@ -12,6 +12,8 @@
 ![GitHub](https://img.shields.io/github/license/anudeepvanjavakam1/video_games_rating_analysis)
 ![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fanudeepvanjavakam1%2Fvideo_games_rating_analysis)
 
+Here is the medium article that summarises the most important results: https://medium.com/@anudeepvanjavakam/what-i-learned-from-analyzing-30k-video-game-ratings-df17ce4aa38b
+
 IGDB.com is a video game database (acquired by Amazon-owned Twitch), intended for both game consumers and video game professionals alike. IGDB stands for Internet Game Database and consists of 2 primary parts, an online website consisting of a website and 3 mobile apps that provide game consumers with structured and up to date information about games and the gaming world.
 
 This dataset of more than 200K games is collected from [IGDB API](https://api-docs.igdb.com/#about) using [igdb-api-v4 for python](https://github.com/twitchtv/igdb-api-python) but only about 30K+ games have ratings.
